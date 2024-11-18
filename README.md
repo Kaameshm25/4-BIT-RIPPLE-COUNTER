@@ -49,10 +49,10 @@ end
 endmodule
 ```
 **RTL LOGIC FOR 4 Bit Ripple Counter**
-![330457800-f894ec00-35ff-42aa-91d4-33a3c4f83828](https://github.com/user-attachments/assets/283952b0-0461-4172-aec5-873818e2f011)
+![Screenshot 2024-11-18 162054](https://github.com/user-attachments/assets/9328778d-a9e2-41a7-9725-51ccc82242e8)
 
 **TIMING DIAGRAMS FOR 4 Bit Ripple Counter**
-![330457234-bf1e161f-d49e-4f1c-91d4-bed3185e20cf](https://github.com/user-attachments/assets/705c62d8-4cf8-406b-a3d7-22ef1f66c077)
+![Screenshot 2024-11-18 162247](https://github.com/user-attachments/assets/3cca65e3-fdb7-40f0-9f43-39d16d7312a8)
 
 **RESULTS**
 Thus implementing 4 Bit Ripple Counter using Verilog and validating their functionality using their functional tables is done successfully.
